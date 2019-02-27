@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81bd2</color>
+    <color name="movDark">#330057</color>
+    <color name="orangeTextViewbg">#FF7F50</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#434B4D</color>
+</resources>
